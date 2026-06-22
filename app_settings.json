@@ -1,8 +1,8 @@
 {
   "notice": "*** বর্তমানে আমাদের ওয়েব সাইট আপডেট চলছে, আপডেট চলাকালীন সময় কিছু চ্যানেল ডাউন হতে পারে।",
-  "telegram": "https://t.me/anonymous4226",
+  "telegram": "https://t.me/",
   "version": "1.0",
   "updateLink": "",
-  "maintenance": "OFF",
+  "maintenance": "ON",
   "adCode": ""
 }
