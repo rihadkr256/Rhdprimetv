@@ -1,13 +1,13 @@
 [
   {
-    "name": "B Tv",
-    "image": "https://d3tx3wg2jy0sui.cloudfront.net/ec3ab16f6f7049ca90b0816c48f7d717.png",
-    "url": "https://rhdprimejw.netlify.app/?url=http://198.195.239.50:8095/btv/video.m3u8"
-  },
-  {
     "name": "Somoy Tv",
     "image": "https://d3tx3wg2jy0sui.cloudfront.net/4f0dab650ca54f8a80f60b7a30824d21.png",
     "url": "https://rhdprimejw.netlify.app/?url=https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8"
+  },
+  {
+    "name": "B Tv",
+    "image": "https://d3tx3wg2jy0sui.cloudfront.net/ec3ab16f6f7049ca90b0816c48f7d717.png",
+    "url": "https://rhdprimejw.netlify.app/?url=http://198.195.239.50:8095/btv/video.m3u8"
   },
   {
     "name": "Fifa x Caze Tv",
